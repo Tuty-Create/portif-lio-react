@@ -1,2 +1,2 @@
 # portif-lio-react
-“Portfólio profissional em React — páginas, componentes reutilizáveis, deploy”
+Portfólio profissional em React — páginas, componentes reutilizáveis, deploy
